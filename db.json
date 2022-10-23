@@ -1,0 +1,55 @@
+{
+    "product": [
+      { "id": 1, "title": "Produk 1", "price": 10000, "des" : "Hahahahaha" },
+      { "id": 2, "title": "Produk 2", "price": 12000, "des" : "Hahahahaha" },
+      { "id": 3, "title": "Produk 3", "price": 15000, "des" : "Hahahahaha" }
+    ],
+    "news": [
+      { "id": 1, "title": "News 1", "des" : "Huhuhuhuh", "category" : "sport"},
+      { "id": 2, "title": "News 2", "des" : "Hahahahaha", "category" : "gosip"},
+      { "id": 3, "title": "News 3", "des" : "Hehehehehe", "category" : "artis"}
+    ],
+    "dashboard" : {
+      "posts" : 10,
+      "likes" : 200,
+      "followers" : 1000,
+      "following" : 20
+    },
+    "events" : [
+      {
+        "id" : 1,
+        "title" : "event 1",
+        "des" : "Huahahahahah",
+        "date" : "April 21",
+        "category" : "sport"
+      },
+      {
+        "id" : 2,
+        "title" : "event 2",
+        "des" : "Huahahahahah",
+        "date" : "April 22",
+        "category" : "comedy"
+      },
+      {
+        "id" : 3,
+        "title" : "event 3",
+        "des" : "Huahahahahah",
+        "date" : "April 23",
+        "category" : "health"
+      },
+      {
+        "id" : 4,
+        "title" : "event 4",
+        "des" : "Huahahahahah",
+        "date" : "April 24",
+        "category" : "game"
+      },
+      {
+        "id" : 5,
+        "title" : "event 5",
+        "des" : "Huahahahahah",
+        "date" : "April 25",
+        "category" : "anime"
+      }
+    ]
+  }
